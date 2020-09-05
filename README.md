@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>Meu nome é Gleydson Delcho de Sousa, tenho 30 anos e sou apaixonado por tecnologias!</p>
 
-[Meu GitHub:](https://github.com/gleydson-delcho/)
+[Meu GitHub>](https://github.com/gleydson-delcho/)
 # Sobre mim
 
 <p>Sou formado em engenharia civil, mas tenho me dedicado aos estudos de desenvolvimento! Busco por oportunidades na área de tecnologia.</p>
@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 # Contatos
 
-* [Email:](gleydson.engenhariacivil@gmail.com)
-* [Linkedin:](https://www.linkedin.com/in/gleydson-delcho-0b35a679/)
+* Email:[gleydson.engenhariacivil@gmail.com](gleydson.engenhariacivil@gmail.com)
+* Linkedin:[gleydson-delcho](https://www.linkedin.com/in/gleydson-delcho-0b35a679/)
