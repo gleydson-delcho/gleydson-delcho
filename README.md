@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 * Linguagem de Programação JAVA - Avançado. - __Fundação Bradesco__
 * Introdução a JavaScript. - __Fundação Bradesco__
 * Introdução a programação orientada a objetos. - __Fundação Bradesco__
-* Curso JavaScript Udemy - __Em Andamento...__
+* Curso JavaScript(Web-Moderno) Udemy - __Em Andamento...__
 
 # Estou atualmente estudando
 
