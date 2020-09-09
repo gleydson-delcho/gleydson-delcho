@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 <p>Meu nome é Gleydson Delcho de Sousa, tenho 30 anos e sou apaixonado por tecnologias!</p>
 
 [Meu GitHub](https://github.com/gleydson-delcho/)
-# Sobre mim
-
-<p>Sou formado em engenharia civil, mas tenho me dedicado aos estudos de desenvolvimento! Busco por oportunidades na área de tecnologia.</p>
-
-# Formação
-
-<p>Graduação em engenharia civil</p>
 
 # Formação adicional voltada a tecnologia
 
@@ -47,6 +40,11 @@ Here are some ideas to get you started:
 * Angular 9
 * Node JS
 * GIT
+
+# Um pouco mais sobre mim
+
+<p>Sou formado em engenharia civil, mas tenho me dedicado aos estudos de desenvolvimento web! Busco por oportunidades na área de tecnologia.</p>
+
 
 # Contatos
 
