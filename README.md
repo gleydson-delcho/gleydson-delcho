@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 * Email: [gleydson.engenhariacivil@gmail.com](gleydson.engenhariacivil@gmail.com)
 * Linkedin: [gleydson-delcho](https://www.linkedin.com/in/gleydson-delcho-0b35a679/)
-* Portfolia: [acesse aqui](https://portfolio-neon-tau.vercel.app/)
+* Portfolio: [acesse aqui](https://portfolio-neon-tau.vercel.app/)
