@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Apresentação
 
-<p>Meu nome é Gleydson Delcho de Sousa, tenho 31 anos e sou apaixonado por tecnologias!</p>
+<p>Meu nome é Gleydson Delcho de Sousa e sou apaixonado por tecnologias! Particularmente gosto mais da área de frontend no entanto tenho estudado também a área de backend.</p>
 
 [Meu GitHub](https://github.com/gleydson-delcho/)
 
@@ -35,18 +35,20 @@ Here are some ideas to get you started:
 * JavaScript
 * CSS 3
 * HTML 5
-* React
+* ReactJS
+* NextJS
 * Express
-* Angular 9
 * Node JS
+* JAVA
 * GIT
 
 # Um pouco mais sobre mim
 
-<p>Sou formado em engenharia civil, mas tenho me dedicado aos estudos de desenvolvimento web! Busco por oportunidades na área de tecnologia.</p>
+<p>Estou aperfeiçoando a cada dia as minhas ténicas de programação, tenho me dedicado aos estudos de desenvolvimento web! Busco por oportunidades na área de tecnologia.</p>
 
 
 # Contatos
 
 * Email: [gleydson.engenhariacivil@gmail.com](gleydson.engenhariacivil@gmail.com)
 * Linkedin: [gleydson-delcho](https://www.linkedin.com/in/gleydson-delcho-0b35a679/)
+* Portfolia: [acesse aqui](https://portfolio-neon-tau.vercel.app/)
